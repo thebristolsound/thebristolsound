@@ -11,39 +11,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building powe
 - 🎯 I contribute to open source projects and share knowledge with the community
 - 📚 I continuously learn and explore new technologies, especially in AI/ML
 
-## 💻 Tech Stack
-
-**Languages:**
-- TypeScript/JavaScript
-- Java
-- Python
-- Rust
-
-**Frontend:**
-- React
-- Next.js
-- Modern CSS/UI frameworks
-
-**Backend:**
-- Node.js
-- Java Spring Boot
-- RESTful APIs
-
-**Tools & Platforms:**
-- VS Code / Cursor / Claude Code
-- IntelliJ IDEA
-- Docker
-- Git
-- WSL2
-- GCP
-
-## 🎮 Beyond Code
-
-When I'm not coding, you'll find me:
-- 🎯 Playing competitive FPS games (Battlefield 6, Arc Raiders)
-- ⚙️ Overclocking and optimizing PC hardware
-- 🖱️ Fine-tuning gaming peripherals and mechanical keyboards
-
 ## 🌱 Currently Exploring
 
 - 🧠 AI engineering and LLM mechanisms
