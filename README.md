@@ -1,15 +1,14 @@
 # 👋 Hi there, I'm Matt Donovan!
 
-🌐 **San Diego, CA** | 💻 **Senior Full Stack Software Engineer** | 🎮 **Competitive Gamer**
+🌐 **San Diego, CA** | 💻 **Senior Full Stack Software Engineer**
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building powerful applications and optimizing performance - both in code and in gaming.
+Welcome to my GitHub profile! I'm a passionate developer who loves building powerful applications and experimenting with cool things.
 
 ## 🛠️ What I Do
 
 - 💼 I build full-stack applications with modern technologies
 - 🤖 I leverage AI-assisted development workflows to maximize productivity
 - 🎯 I contribute to open source projects and share knowledge with the community
-- 🔧 I optimize PC performance and game settings for competitive advantages
 - 📚 I continuously learn and explore new technologies, especially in AI/ML
 
 ## 💻 Tech Stack
@@ -41,10 +40,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building powe
 ## 🎮 Beyond Code
 
 When I'm not coding, you'll find me:
-- 🎯 Playing competitive FPS games (Battlefield 6, Arc Raiders, Fortnite)
+- 🎯 Playing competitive FPS games (Battlefield 6, Arc Raiders)
 - ⚙️ Overclocking and optimizing PC hardware
 - 🖱️ Fine-tuning gaming peripherals and mechanical keyboards
-- 📺 Watching tech content and gaming streams
 
 ## 🌱 Currently Exploring
 
@@ -55,7 +53,7 @@ When I'm not coding, you'll find me:
 
 ## 📫 Let's Connect
 
-I'm always interested in collaborating on interesting projects or discussing tech, gaming, and optimization!
+I'm always interested in collaborating on interesting projects
 
 ---
 
