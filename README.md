@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building powe
 
 ## 🛠️ What I Do
 
-- 💼 I build full-stack applications with modern technologies
+- 💼 I build full-stack applications with modern technologies, primarily JavaScript & TypeScript
 - 🤖 I leverage AI-assisted development workflows to maximize productivity
 - 🎯 I contribute to open source projects and share knowledge with the community
 - 📚 I continuously learn and explore new technologies, especially in AI/ML
@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building powe
 - 🧠 AI engineering and LLM mechanisms
 - 🔍 Embedding models and RAG architectures
 - 🚀 Advanced AI-assisted development techniques
-- 🎓 AI certifications and professional development
 
 ## 📫 Let's Connect
 
